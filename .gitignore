@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# project Document
+Document/
+
+# firebase service account file 
+keywe-9f261-firebase-adminsdk-w65lo-52c0e953e4.json
